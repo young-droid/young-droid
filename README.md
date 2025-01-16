@@ -3,15 +3,18 @@
 
 ## 🔍 소개
 새로운 도전과 배움을 즐기는 사람입니다. 
-커뮤니케이션학을 전공했고, 
 영어 교육 게임회사에서 QA로 2년간 일한 경험이 있습니다. 
-
-자바와 자바스크립트를 공부했었고, 기본적인 html와 css 사용이 가능합니다. 
 
 제 장점은 git 사용 입니다! 
 회사에서도 계속 사용했었고, 특히 QA로써 커밋 로그와 브랜치를 뜯어보는 일을 많이 해 익숙합니다. 
 
 잘 부탁드립니다 😊
+
+### 🔭 I’m currently studying in ...
+SSAFY
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yjcho1128)](https://solved.ac/yjcho1128)
+
 
 ## 🚀 기술 스택
 - **프로그래밍 언어:** ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
